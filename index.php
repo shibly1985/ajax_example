@@ -57,8 +57,8 @@
          Sex: 
          
          <select id = 'sex'>
-            <option value = "m">Male</option>
-            <option value = "f">Female</option>
+            <option value = "male">Male</option>
+            <option value = "female">Female</option>
          </select>
          
          <input type = 'button' onclick = 'ajaxFunction()' value = 'Query MySQL'/>
