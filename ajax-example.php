@@ -26,7 +26,7 @@ $display_string = "<table>";
 $display_string .= "<tr>";
 $display_string .= "<th>Name</th>";
 $display_string .= "<th>Age</th>";
-$display_string .= "<th>Sex</th>";
+$display_string .= "<th>Gender</th>";
 $display_string .= "<th>WPM</th>";
 $display_string .= "</tr>";
 
